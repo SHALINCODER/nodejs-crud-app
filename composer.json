@@ -60,7 +60,7 @@
         ],
         "post-install-cmd": [
             "find vendor -type d -name .github -prune -exec rm -rf {} +"
-        ]        
+        ],        
     },
     "extra": {
         "branch-alias": {
